@@ -25,8 +25,10 @@ pytest
 ```
 ## Работа программы и тесты
 Программа работает корректно и без ошибок, присутствуют 2 теста проверяющие работоспособность функций.
-![alt text](image.png)
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/89e658d1-86b8-4996-b226-8832ee0799f7)
+
+![image](https://github.com/user-attachments/assets/be4c290a-6aa8-4015-8fc7-0913355f9832)
+
 ## Автор
 
 Смирнов Лев
